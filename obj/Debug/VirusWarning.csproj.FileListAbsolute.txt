@@ -1,0 +1,10 @@
+D:\URUBONZ\Desktop\Files\Hacking\Coding\C#\Virus Warning\VirusWarning\VirusWarning\bin\Debug\VirusWarning.exe.config
+D:\URUBONZ\Desktop\Files\Hacking\Coding\C#\Virus Warning\VirusWarning\VirusWarning\bin\Debug\VirusWarning.exe
+D:\URUBONZ\Desktop\Files\Hacking\Coding\C#\Virus Warning\VirusWarning\VirusWarning\bin\Debug\VirusWarning.pdb
+D:\URUBONZ\Desktop\Files\Hacking\Coding\C#\Virus Warning\VirusWarning\VirusWarning\obj\Debug\VirusWarning.csproj.AssemblyReference.cache
+D:\URUBONZ\Desktop\Files\Hacking\Coding\C#\Virus Warning\VirusWarning\VirusWarning\obj\Debug\VirusWarning.Form1.resources
+D:\URUBONZ\Desktop\Files\Hacking\Coding\C#\Virus Warning\VirusWarning\VirusWarning\obj\Debug\VirusWarning.Properties.Resources.resources
+D:\URUBONZ\Desktop\Files\Hacking\Coding\C#\Virus Warning\VirusWarning\VirusWarning\obj\Debug\VirusWarning.csproj.GenerateResource.cache
+D:\URUBONZ\Desktop\Files\Hacking\Coding\C#\Virus Warning\VirusWarning\VirusWarning\obj\Debug\VirusWarning.csproj.CoreCompileInputs.cache
+D:\URUBONZ\Desktop\Files\Hacking\Coding\C#\Virus Warning\VirusWarning\VirusWarning\obj\Debug\VirusWarning.exe
+D:\URUBONZ\Desktop\Files\Hacking\Coding\C#\Virus Warning\VirusWarning\VirusWarning\obj\Debug\VirusWarning.pdb
